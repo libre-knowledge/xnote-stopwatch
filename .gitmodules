@@ -7,3 +7,7 @@
 #
 # Copyright 2021 林博仁(Buo-ren, Lin) <Buo.Ren.Lin@gmail.com>
 # SPDX-License-Identifier: CC-BY-SA-4.0
+[submodule "Unofficial Snap Packaging for XNote Stopwatch"]
+	path = Unofficial Snap Packaging for XNote Stopwatch
+	url = https://github.com/brlin-tw/xnote-stopwatch-snap.git
+	ignore = dirty
