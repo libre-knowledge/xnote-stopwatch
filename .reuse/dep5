@@ -1,0 +1,11 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: XNote Stopwatch《自由知識協作平台》主題
+Upstream-Contact: Issues · libre-knowledge/xnote-stopwatch <https://gitlab.com/libre-knowledge/xnote-stopwatch/-/issues>
+Source: https://gitlab.com/libre-knowledge/xnote-stopwatch
+
+Files:
+    *README.md
+    */README.md
+    _config.yml
+Copyright: Copyright 2024 自由知識協作平台貢獻者 <https://gitlab.com/libre-knowledge/libre-knowledge/-/issues>
+License: CC-BY-SA-4.0+
