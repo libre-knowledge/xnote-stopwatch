@@ -11,7 +11,7 @@ Professional stopwatch and timer for Windows
 
 * [XNote Stopwatch: Professional stopwatch and timer for Windows](http://www.xnotestopwatch.com/#overview)  
   應用軟體本身
-* [brlin-tw/xnote-stopwatch-snap: Unofficial Snap Packaging for XNote Stopwatch](https://github.com/brlin-tw/xnote-stopwatch-snap)  
+* [Unofficial Snap Packaging for XNote Stopwatch](https://github.com/brlin-tw/xnote-stopwatch-snap)  
   Provide ready-to-use XNote Stopwatch application to snap-enabled GNU+Linux distributions.
 
 ## 參考資料
